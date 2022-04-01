@@ -46,7 +46,7 @@ export const services = [
 
 export const projects = [
   {
-    image: "./Images/travlix.png",
+    image: "./Images/Travlix.png",
     heading: "Travelix Templete",
     link: "https://amanullah21.github.io/Travelix-Clone/",
   },
@@ -56,64 +56,34 @@ export const projects = [
     link: "https://github.com/Amanullah21/Google_garage",
   },
   {
-    image: "./Images/template3.png",
-    heading: "Restaurant Template",
-    link: "https://ateevduggal.github.io/Restaurant/",
-  },
-  {
-    image: "./Images/SPA.png",
-    heading: "Tekolio SPA",
-    link: "https://tekolio-react-9tjfdrwwu-ateevduggal.vercel.app/",
-  },
-  {
-    image: "./Images/dictionary-app.png",
-    heading: "Dictionary App",
-    link: "https://dictionary-app-xi.vercel.app/",
-  },
-  {
-    image: "./Images/google.png",
-    heading: "Live Wildfire App using NASA API",
-    link: "https://dictionary-app-xi.vercel.app/",
+    image: "./Images/Zostal.png",
+    heading: "Zostal Template",
+    link: "https://github.com/Amanullah21/Zostel_Project/",
   },
 ];
 
 export const blogs = [
   {
-    image: "./Images/dictionary.png",
-    heading: "How to make a Dictionary App in React",
-    link: "https://tekolio.com/how-to-create-a-dictionary-app-in-react/",
+    image: "./Images/Wipro.jpeg",
+    heading: "Talk With Wipro Technical Leader",
+    link: "https://www.youtube.com/watch?v=Ky0pkZ1W430",
   },
   {
-    image: "./Images/hooks.png",
-    heading: "Hooks in React",
-    link: "https://tekolio.com/what-are-hooks-in-react/",
+    image: "./Images/Invesco.jpeg",
+    heading: "Talk with Invesco Technical Architech",
+    link: "https://www.youtube.com/watch?v=lVjCJJaAzdU&t=1s",
   },
   {
-    image: "./Images/filter.png",
-    heading: "How to make a Filter Component in React",
-    link: "https://www.freecodecamp.org/news/how-to-make-a-filter-component-in-react/",
-  },
-  {
-    image: "./Images/JSX.png",
-    heading: "What is JSX in React",
-    link: "https://tekolio.com/what-is-jsx-in-react-and-why-is-it-important/",
-  },
-  {
-    image: "./Images/random.png",
-    heading: "How to build a Random Quote Generator with API",
-    link: "https://tekolio.com/how-to-create-a-random-quote-generator-with-random-color/",
-  },
-  {
-    image: "./Images/virtual.png",
-    heading: "React Virtual DOM - Explained",
-    link: "https://tekolio.com/react-virtual-dom-explained-in-simple-words/",
-  },
+    image: "./Images/AMIC.jpeg",
+    heading: "Talk With Content Creater of StarMaker",
+    link: "https://www.youtube.com/watch?v=1CC5wzoTr7U&t=2s",
+  }
 ];
 
 export const social = [
   {
     id: "1",
-    link: "https://www.facebook.com/",
+    link: "https://www.facebook.com/profile.php?id=100008546623486/",
     icon: "fab fa-facebook-square facebook",
   },
   {
