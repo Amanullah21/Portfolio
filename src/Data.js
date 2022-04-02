@@ -9,7 +9,7 @@ export const slider = [
   },
   {
     text: "Bootstrap",
-    width: "70%",
+    width: "58%",
   },
   {
     text: "JS",

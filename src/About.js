@@ -18,8 +18,7 @@ const About = () => {
           </div>
           <div className="col-6 px-5 fs-4 pt-5 mt-2" id="text_about">
             My name is <span style={{ color: "orange" }}>Md Amanullah</span>,
-            and I am a Full Stack Web developer and a blogger with a
-            highly qualified and self-attained skill set which contains most
+            and I am a Full Stack Web developer and a blogger with more than 100+ DSA problems across different platforms like hackerrank geeksforgeeks leetcode and self-attained skill set which contains most
             used and compatible JS framework - React JS.
             <div className="d-flex justify-content-between mt-5">
               <a href={Resume} download>
