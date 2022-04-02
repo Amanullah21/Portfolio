@@ -16,24 +16,23 @@ const About = () => {
               }}
             />
           </div>
+          {/* <a></a> */}
           <div className="col-6 px-5 fs-4 pt-5 mt-2" id="text_about">
             My name is <span style={{ color: "orange" }}>Md Amanullah</span>,
-            and I am a Full Stack Web developer and a blogger with more than 100+ DSA problems across different platforms like hackerrank geeksforgeeks leetcode and self-attained skill set which contains most
-            used and compatible JS framework - React JS.
+            and I am a Full Stack Web developer , a blogger and Solevd more than
+            100+ DSA problems across different platforms like
+            Hackerrank,GeeksforGeeks Leetcode and self-attained skill set which
+            contains most used and compatible JS framework - React JS.
             <div className="d-flex justify-content-between mt-5">
               <a href={Resume} download>
-                <button className="btn fs-4 fw-bold">
-                  Resume
-                </button>
+                <button className="btn fs-4 fw-bold">Resume</button>
               </a>
               <a
                 href="https://www.linkedin.com/in/amanullah21/"
                 className="text-white fw-bold text-decoration-none fs-4 px-3"
                 target="true"
               >
-                <button className="btn  fs-4 fw-bold px-3">
-                  Let's chat
-                </button>
+                <button className="btn  fs-4 fw-bold px-3">Let's chat</button>
               </a>
             </div>
           </div>

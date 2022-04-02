@@ -25,7 +25,7 @@ export const services = [
   {
     icon: "fas fa-mobile-alt",
     heading: "Responsive Website Development",
-    text: "Website has an important role in your customer satisfaction as it has all the vital info about the product and they can have onr-to-one chat with you",
+    text: "Website has an important role in your customer satisfaction as it has all the vital info about the product and they can have one-to-one chat with you",
   },
   {
     icon: "fas fa-paper-plane",

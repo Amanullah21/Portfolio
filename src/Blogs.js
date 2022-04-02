@@ -44,7 +44,7 @@ const Blogs = () => {
             );
           })}
           <div className="text-center col-12 mt-5">
-            <a href="https://tekolio.com/" target="true">
+            <a href="https://www.youtube.com/channel/UCM9jYzWiO4JSieZVohQFIqw" target="true">
               <button
                 className="btn text-white fs-5 px-3 fw-bold col-3"
                 id="btn"
