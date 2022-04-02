@@ -9,7 +9,7 @@ const Services = () => {
             className="col-12 text-center fw-bold fs-1 mb-5 pb-3"
             id="heading"
           >
-            <span style={{ color: "orange" }}>My</span> Services
+            <span style={{ color: "orange" }}>My</span> Motive
             <hr style={{ width: "10%", margin: "auto", height: "7%" }} />
           </div>
           {services.map((Val) => {

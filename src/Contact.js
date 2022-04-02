@@ -30,13 +30,16 @@ const Contact = () => {
                     rel="noopener noreferrer"
                     className="mx-3"
                   >
-                    <i className={`${Val.icon}`} id="icons"></i>
+                    <i className={`${Val.icon}`} id="icons" ></i>
                   </a>
                 </>
               );
             })}
           </div>
-          <div className="w-100 my-4"></div>
+          <div className="w-100 my-4 text-center">
+          <span style={{ color: "orange"}}>Mail </span><a href="mailto:1amanpce@gmail.com"> 1amanpce@gmail.com</a> <br/>
+          <span style={{ color: "orange" }}> Contact</span> <a href="callto:7070476900" > 7070476900</a>
+          </div>
         </div>
       </div>
     </>

@@ -83,32 +83,28 @@ export const blogs = [
 export const social = [
   {
     id: "1",
-    link: "https://www.facebook.com/profile.php?id=100008546623486/",
-    icon: "fab fa-facebook-square facebook",
-  },
-  {
-    id: "2",
     link: "https://www.github.com/Amanullah21/",
     icon: "fa-brands fa-github-square github",
   },
   {
-    id: "3",
+    id: "2",
     link: "https://www.linkedin.com/in/Amanullah21/",
     icon: "fab fa-linkedin linkedin",
   },
   {
-    id: "4",
+    id: "3",
     link: "mailto:1amanpce@gmail.com",
     icon: "fas fa-envelope mail",
+  },
+  {
+    id: "4",
+    link: "https://www.youtube.com/channel/UCM9jYzWiO4JSieZVohQFIqw",
+    icon: "fa-brands fa-youtube-square"
   },
   {
     id: "5",
     link: "https://wa.me/7070476900",
     icon: "fab fa-whatsapp-square whatsapp",
   },
-  {
-    id: "6",
-    link: "https://www.youtube.com/channel/UCM9jYzWiO4JSieZVohQFIqw",
-    icon: "fa-brands fa-youtube-square"
-  },
+  
 ];
