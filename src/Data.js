@@ -75,7 +75,7 @@ export const blogs = [
   },
   {
     image: "./Images/AMIC.jpeg",
-    heading: "Talk With Content Creater of StarMaker",
+    heading: "Talk With Onwer of AMIC and Content Creater of StarMaker",
     link: "https://www.youtube.com/watch?v=1CC5wzoTr7U&t=2s",
   }
 ];
