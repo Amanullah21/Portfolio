@@ -50,6 +50,7 @@ body {
 }
 /*                        PROJECTS                */
 #card-img {
+  
   opacity: 1;
 }
 #card-img:hover {
@@ -80,6 +81,7 @@ body {
     display: block !important;
     margin: auto !important;
     padding-top: 5% !important;
+    /* background-color: wheat; */
   }
   .main_hero {
     padding: 0 !important;
@@ -92,7 +94,7 @@ body {
     font-size: 45px !important;
   }
   #image_hero{
-    height: 300px;
+    height: 250px;
     /* background-color: aquamarine; */
 
   }

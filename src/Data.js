@@ -106,4 +106,9 @@ export const social = [
     link: "https://wa.me/7070476900",
     icon: "fab fa-whatsapp-square whatsapp",
   },
+  {
+    id: "6",
+    link: "https://www.youtube.com/channel/UCM9jYzWiO4JSieZVohQFIqw",
+    icon: "fa-brands fa-youtube-square"
+  },
 ];
