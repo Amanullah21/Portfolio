@@ -56,7 +56,7 @@ export const projects = [
     link: "https://github.com/Amanullah21/Google_garage",
   },
   {
-    image: "./Images/Zostal.png",
+    image: "./Images/Zostal.PNG",
     heading: "Zostal Template",
     link: "https://github.com/Amanullah21/Zostel_Project/",
   },
