@@ -52,7 +52,7 @@ export const projects = [
   },
   {
     image: "./Images/googleGrage.png",
-    heading: "Google Gradge Template",
+    heading: "Google Digital Garage Template",
     link: "https://github.com/Amanullah21/Google_garage",
   },
   {
