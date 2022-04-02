@@ -38,7 +38,7 @@ const Contact = () => {
           </div>
           <div className="w-100 my-4 text-center">
           <span style={{ color: "orange"}}>Mail </span><a href="mailto:1amanpce@gmail.com"> 1amanpce@gmail.com</a> <br/>
-          <span style={{ color: "orange" }}> Contact</span> <a href="callto:7070476900" > 7070476900</a>
+          <span style={{ color: "orange" }}> Contact</span> <a href="tel:555-555-5555" > 7070476900</a>
           </div>
         </div>
       </div>
