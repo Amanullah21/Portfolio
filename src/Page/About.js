@@ -1,6 +1,6 @@
 import React from "react";
 import { slider } from "./Data";
-import Resume from "./resume.pdf";
+import Resume from "../resume.pdf"
 const About = () => {
   return (
     <>

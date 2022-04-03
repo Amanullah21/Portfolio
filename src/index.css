@@ -1,11 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 body {
-  background-color: #000000;
-  color: white;
+  background-color: #000000 ;
+  color: white ;
   padding: 0;
   margin: 0;
   width: 100%;
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", sans-serif !important;
+}
+.logo{
+  height: 50px;
 }
 #main_hero {
   height: 500px;
@@ -31,22 +34,22 @@ body {
   background-color: grey;
 }
 .inner-slider {
-  background-color: orange;
+  background-color: orange !important;
   height: 15px;
   border-radius: 34px;
 }
 .btn {
-  background-color: rgb(196, 136, 26);
-  border-radius: 40px;
-  transition: all 0.3s linear;
-  color: white;
+  background-color: rgb(196, 136, 26) !important;
+  border-radius: 40px !important;
+  transition: all 0.3s linear !important;
+  color: white !important;
   box-shadow: 3px 4px grey;
 }
 .btn:hover {
-  background-color: transparent;
-  border: 2px solid orange;
-  color: orange;
-  box-shadow: 3px 4px orange;
+  background-color: transparent !important;
+  border: 2px solid orange !important;
+  color: orange !important;
+  box-shadow: 3px 4px orange !important;
 }
 /*                        PROJECTS                */
 #card-img {
@@ -58,22 +61,23 @@ body {
   transition: all 0.3s ease;
 }
 #icons {
-  font-size: 45px;
+  font-size: 45px  !important;
+  /* background-color: aliceblue; */
 }
 .instagram {
-  color: magenta;
+  color: magenta !important;
 }
 .facebook {
-  color: blue;
+  color: blue !important;
 }
 .mail {
-  color: grey;
+  color: grey !important;
 }
 .linkedin {
-  color: rgb(40, 133, 170);
+  color: rgb(40, 133, 170) !important;
 }
 .whatsapp {
-  color: green;
+  color: green !important;
 }
 
 @media (min-width: 300px) and (max-width: 575px) {

@@ -1,19 +1,21 @@
 import React from "react";
-import Hero from "./Hero";
-import About from "./About";
-import Services from "./Services";
-import Projects from "./Projects";
-import Blogs from "./Blogs";
-import Contact from "./Contact";
+// import Navbar from "./Navbar";
+// import { Routing } from "./Routning";
+import Home from "./Page/Hero"
+import About from "./Page/About"
+import Motive from "./Page/Services"
+import Contact from "./Page/Contact"
+import Blogs from "./Page/Blogs"
+import Project from "./Page/Projects"
 const App = () => {
   return (
     <>
-      <Hero />
-      <About />
-      <Services />
-      <Projects />
-      <Blogs />
-      <Contact />
+    <Home/>
+    <About/>
+    <Motive/>
+    <Project/>
+    <Blogs/>
+    <Contact/>
     </>
   );
 };

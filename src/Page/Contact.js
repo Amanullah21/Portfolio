@@ -6,7 +6,7 @@ const Contact = () => {
       <div className="container-fluid">
         <div className="row mt-5">
           <div
-            className="col-12 text-center fw-bold fs-1 text-black px-5 mb-5"
+            className="col-12 text-center fw-bold fs-1 text-white px-5 mb-5"
             id="heading"
           >
             Contact<span style={{ color: "orange" }}> Me</span>
